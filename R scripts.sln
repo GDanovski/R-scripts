@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{7FE5F469-8433-4B7D-A153-8D2502BD864D}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\boxAndWhiskerPlot.R = Scripts\boxAndWhiskerPlot.R
+		Scripts\Heatmap_Dendrogram.R = Scripts\Heatmap_Dendrogram.R
+		Scripts\Heatmap_Dendrogram1.R = Scripts\Heatmap_Dendrogram1.R
+		Scripts\Heatmap_Dendrogram_new(15_06_16).R = Scripts\Heatmap_Dendrogram_new(15_06_16).R
+		Scripts\Heatmap_Dendrogram_new.R = Scripts\Heatmap_Dendrogram_new.R
+		Scripts\Heatmap_Dendrogram_new1.R = Scripts\Heatmap_Dendrogram_new1.R
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
